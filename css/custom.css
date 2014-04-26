@@ -1,0 +1,33 @@
+@import url("//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css");
+.menu_spaced{
+	padding-left: 9%;
+}
+.menu_right{
+	padding-left: 17%;
+}
+.line{
+
+	outline: 2px dotted red;
+}
+.new_line{
+	margin-bottom: 5%;
+	margin-top: 5%;
+
+}
+body{
+	background-color: eeeeeee;
+
+}
+.font_color{
+	color: red;
+}
+.new_row{  	
+	padding:15px;
+	background:#dddddd;
+}
+.profile_img{
+	border-radius: 10%;
+}
+.full_border{	
+	border-color: red;
+}
